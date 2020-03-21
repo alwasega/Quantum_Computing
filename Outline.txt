@@ -1,0 +1,14 @@
+﻿Quantum Computing Outline
+1. Prerequisites
+* Python
+* Introduction to Qiskit
+* Introduction to Linear algebra
+2. Quantum states and qubits
+* The atoms of computation
+* Representing qubits states
+* Single qubit gates
+3. Multiple qubits and entanglement
+* Multiple qubits and entanglement states
+* Phase kickback
+* Proving universality
+4. Problems
